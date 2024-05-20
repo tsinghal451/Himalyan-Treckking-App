@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HimalayanTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id" />
+    <string name="listitem">ListItem</string>
+    <string name="data">DATA</string>
+    <string name="razorpay"></string>
+    <string name="Hotels">\n</string>
+
+</resources>
