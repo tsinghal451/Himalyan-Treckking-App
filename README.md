@@ -34,7 +34,7 @@
 - Path : Select -> Project/App-debug.apk
 
 # How to clone this Application :
-- git clone https://github.com/Jainmihir/Himalayan-Tracker-.git
+- gh repo clone tsinghal451/Himalyan-Treckking-App
 - Setup Gradle Files with Firebase Authentication (OTP,Google) or Razor Pay API's.
 
 # To Download PPT :
